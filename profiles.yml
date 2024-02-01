@@ -1,0 +1,8 @@
+profile:
+  target: prod
+  outputs:
+    prod:
+      type: postgres
+      host: 10.31.27.229
+      user: postgres
+      pass: a1b2c3d4e5%
